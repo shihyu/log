@@ -1,0 +1,50 @@
+19700214_034813 1557  1557  0    : STT:htcserviced: build=5.2.3.0.plat_4.1.2-dlxu-all, version=22, uptime=101.22, pid=1557, ppid=1549 (sh), pppid=1501 (android.ssdtest)
+19700214_034813 1557  1557  0    : STT:htcserviced: ro.product.device=dlxu
+19700214_034813 1557  1557  0    : STT:htcserviced: ro.board.platform=msm8960
+19700214_034813 1557  1557  0    : STT:htcserviced: ro.build.description=0.1.0.0 (20130913 __ #) test-keys
+19700214_034813 1557  1557  0    : STT:htcserviced: ro.build.project=:
+19700214_034813 1557  1557  0    : STT:htcserviced: ro.build.id=JRO03C
+19700214_034813 1557  1557  0    : STT:htcserviced: ro.build.version.release=4.1.2
+19700214_034814 1557  1557  0    : STT:htcserviced: ro.build.version.sdk=16
+19700214_034814 1557  1557  0    : STT:htcserviced: ro.boot.mode=normal
+19700214_034814 1557  1557  0    : STT:htcserviced: gsm.misc.config=0x0
+19700214_034814 1557  1584  0    : STT:logctl: autorun [internal][10][79][5120][300:300]
+19700214_034814 1557  1584  0    : STT:logctl: [embedded] start loggers [/data/htclog/][10][79][5120][300:300]
+19700214_034814 1557  1584  0    : STT:htcserviced: persist.radio.lockui.stt=
+19700214_034814 1557  1584  0    : STT:htcserviced: /proc/driver/hdf=No such file or directory
+19700214_034814 1557  1584  0    : STT:htcserviced: /system/etc/hldm.bin=7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+19700214_034814 1557  1584  0    : STT:logdevice: file=/data/htclog/device_i0001_19700214_034814_FA2A8PN00496_dlxu_0.1.0.0.txt, logcat=1586
+19700214_034814 1557  1584  0    : STT:logevents: file=/data/htclog/events_i0001_19700214_034814_FA2A8PN00496_dlxu_0.1.0.0.txt, logcat=1589
+19700214_034814 1557  1587  0    : STT:logkmsg: file=/data/htclog/kernel_i0001_19700214_034814_FA2A8PN00496_dlxu_0.1.0.0.txt, klogctl=1
+19700214_034814 1557  1584  0    : STT:logradio: file=/data/htclog/radio_i0001_19700214_034814_FA2A8PN00496_dlxu_0.1.0.0.txt, logcat=1590
+19700214_034814 1557  1584  0    : STT:dumplastkmsg: file=/data/htclog/lastkmsg_i0001_19700214_034814_FA2A8PN00496_dlxu_0.1.0.0.txt
+19700215_000133 1557  4081  0    : STT:logctl: [embedded] detected logdevice became defunct!
+19700215_000259 1557  4122  0    : STT:logctl: [embedded] detected logdevice resumed from defunct!
+19700216_063132 1557  7488  0    : STT:logctl: [embedded] detected logdevice became defunct!
+19700216_064751 1557  7535  0    : STT:logctl: [embedded] detected logdevice resumed from defunct!
+19700217_150133 1557  1599  0    : STT:logctl: hello, logging=[1][1]
+19700220_020133 1557  18300 0    : STT:logctl: [embedded] detected logdevice became defunct!
+19700220_022159 1557  18324 0    : STT:logctl: [embedded] detected logdevice resumed from defunct!
+19700221_033132 1557  1599  0    : STT:logctl: hello, logging=[1][1]
+19700303_083602 276   276   0    : STT:htcserviced: build=5.2.3.0.plat_4.1.2-dlxu-all, version=22, uptime=5.08, pid=276, ppid=230 (htcpreloader), pppid=1 (init)
+19700303_083603 276   276   0    : STT:htcserviced: working pid=440
+19700303_083603 440   440   0    : STT:htcserviced: ro.product.device=dlxu
+19700303_083603 440   440   0    : STT:htcserviced: ro.board.platform=msm8960
+19700303_083603 440   440   0    : STT:htcserviced: ro.build.description=0.1.0.0 (20130913 __ #) test-keys
+19700303_083603 440   440   0    : STT:htcserviced: ro.build.project=:
+19700303_083603 440   440   0    : STT:htcserviced: ro.build.id=JRO03C
+19700303_083603 440   440   0    : STT:htcserviced: ro.build.version.release=4.1.2
+19700303_083603 440   440   0    : STT:htcserviced: ro.build.version.sdk=16
+19700303_083603 440   440   0    : STT:htcserviced: ro.boot.mode=normal
+19700303_083603 440   440   0    : STT:htcserviced: gsm.misc.config=0x0
+19700303_083603 440   468   0    : STT:logctl: autorun [internal][10][79][5120][300:300]
+19700303_083604 440   468   0    : STT:logctl: [embedded] start loggers [/data/htclog/][10][79][5120][300:300]
+19700303_083604 440   468   0    : STT:htcserviced: persist.radio.lockui.stt=
+19700303_083605 440   468   0    : STT:htcserviced: /proc/driver/hdf=No such file or directory
+19700303_083605 440   468   0    : STT:htcserviced: /system/etc/hldm.bin=7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+19700303_083605 440   468   0    : STT:logdevice: file=/data/htclog/device_i0002_19700303_083605_FA2A8PN00496_dlxu_0.1.0.0.txt, logcat=497
+19700303_083605 440   498   0    : STT:logkmsg: file=/data/htclog/kernel_i0002_19700303_083605_FA2A8PN00496_dlxu_0.1.0.0.txt, klogctl=1
+19700303_083605 440   468   0    : STT:logevents: file=/data/htclog/events_i0002_19700303_083605_FA2A8PN00496_dlxu_0.1.0.0.txt, logcat=505
+19700303_083605 440   468   0    : STT:logradio: file=/data/htclog/radio_i0002_19700303_083605_FA2A8PN00496_dlxu_0.1.0.0.txt, logcat=507
+19700303_083605 440   468   0    : STT:dumplastkmsg: file=/data/htclog/lastkmsg_i0002_19700303_083605_FA2A8PN00496_dlxu_0.1.0.0.txt
+20131014_164859 440   468   0    : STT:logctl: [embedded] mounted=1 [/storage/sdcard0], mnt_phone=0, mnt_external=1, mnt_usb=0, autorun=1, autoswitch=0, islogging=1 [/data/htclog/], log_phone=0, log_external=0, log_usb=0, stopped by shutdown=0
